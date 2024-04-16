@@ -26,13 +26,10 @@
 
   border-radius: 1rem;
   box-shadow: 0px -16px 24px 0px rgba(255, 255, 255, 0.25) inset;
-  background-image: url("C:\Users\Luiz Carlos Raymundo\Desktop\jack\jack\1.png");
+  background-image: url("./1.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-
-
 
 .card .card__border {
   overflow: hidden;
